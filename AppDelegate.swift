@@ -5,7 +5,6 @@
 //  Created by Dan on 1/3/19.
 //  Copyright © 2019 Dan. All rights reserved.
 //
-
 import UIKit
 import BDBOAuth1Manager
 
@@ -48,4 +47,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 }
-
